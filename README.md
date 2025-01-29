@@ -1,5 +1,5 @@
-### RACE HORSE GAME
-# *A GAMBLERS DREAM
+# RACE HORSE GAME
+### *A GAMBLERS DREAM*
 
 ## Overview of the program: This program simulates a horserace of 5 horses, and uses a random number between 1 and 0 to move one step closer to the finish line and stops when there is a winner.
 
